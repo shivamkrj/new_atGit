@@ -4,8 +4,9 @@ using namespace std;
 int main()
 {
     //1 jan 1920 is thursday
-    int y,m,n,i,t=3,j,k,ty=0,d=0,a[12]={31,28,31,30,31,30,31,31,30,31,30,31};
     l:
+    int y,m,n,i,t=3,j,k,ty=0,d=0,a[12]={31,28,31,30,31,30,31,31,30,31,30,31};
+    
     cout<<"Enter the year :"<<endl;
     cin>>y;
     cout<< "enter month no. :" <<endl;
